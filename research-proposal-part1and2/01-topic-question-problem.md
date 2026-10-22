@@ -1,4 +1,4 @@
-\## Title
+\# Title
 
 
 
@@ -6,11 +6,7 @@ Chicago Bulls Roster Transition Analysis
 
 
 
-\---
-
-
-
-\## Summary
+\# Summary
 
 
 
@@ -18,11 +14,7 @@ This proposal explores how the Chicago Bulls transitioned from an older veteran 
 
 
 
-\---
-
-
-
-\## Proposal Details
+\# Proposal Details
 
 
 
@@ -30,11 +22,7 @@ I am studying the strategic roster changes the Chicago Bulls made in recent year
 
 
 
-\---
-
-
-
-\## Methodology \& Clarity Checks
+\# Methodology \& Clarity Checks
 
 
 
