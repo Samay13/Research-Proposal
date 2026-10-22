@@ -30,5 +30,5 @@ I am studying the strategic roster changes the Chicago Bulls made in recent year
 
 \* \*\*Section 15.3 (Clarity \& Flow):\*\* Kept the main subjects close together to be able to clarify the order of the roster moves.
 
-\* \*\*Section 15.5 (Emphasis \& Sentence Endings):\*\* Ended important sentences with phrases with great meaning.
+\* \*\*Section 15.5 (Emphasis \& Sentence Endings):\*\* Ended important sentences with phrases that have great meaning of value.
 
